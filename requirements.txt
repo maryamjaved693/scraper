@@ -1,0 +1,5 @@
+flask
+firecrawl
+selenium
+requests
+beautifulsoup4
